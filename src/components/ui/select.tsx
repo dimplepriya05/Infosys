@@ -1,0 +1,1 @@
+export const Select = (p: any) => <select {...p} />; export const SelectContent = (p: any) => <div {...p} />; export const SelectItem = (p: any) => <option {...p} />; export const SelectTrigger = (p: any) => <div {...p} />; export const SelectValue = (p: any) => <span {...p} />;
